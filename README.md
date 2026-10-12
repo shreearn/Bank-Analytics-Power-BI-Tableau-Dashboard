@@ -29,11 +29,11 @@ Project internship with AI Variant (Sep–Dec 2023), completed as part of the Ex
 🏠 Renters default more often (15.4%) than mortgage holders (13.7%)	| 💳 Riskier grades carry more existing credit-card debt (avg revolving balance $11K for A vs $20K for G)
 
 # Dashboards
-![Power BI](https://drive.google.com/file/d/1eTXRZzBxmdaHq6MUJKucjmTXZtDRx6px/view?usp=sharing) 
+[Power BI](https://drive.google.com/file/d/1eTXRZzBxmdaHq6MUJKucjmTXZtDRx6px/view?usp=sharing) 
 
-![Tableau](https://drive.google.com/file/d/1eHvkIASRYm9FlOkCh6xSgk6Ve_-1kw8a/view?usp=sharing)
+[Tableau](https://drive.google.com/file/d/1eHvkIASRYm9FlOkCh6xSgk6Ve_-1kw8a/view?usp=sharing)
 
-![Excel](https://drive.google.com/file/d/1EEdZ0BxDA4pdF8knqgdjyTzHZbOhkonA/view?usp=sharing) 
+[Excel](https://drive.google.com/file/d/1EEdZ0BxDA4pdF8knqgdjyTzHZbOhkonA/view?usp=sharing) 
 
 All three dashboards use the same cleaned dataset and the same KPI definitions, so the numbers match across tools.
 
